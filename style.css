@@ -181,3 +181,8 @@ footer {
 .header a:hover, .header a.logo:hover {
   animation: bounce 0.5s ease-in-out;
 }
+.nom{
+  text-align: left;
+  text-decoration: black;
+  padding: 10px;
+}

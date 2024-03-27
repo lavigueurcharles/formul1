@@ -125,3 +125,8 @@ footer {
   src: url('Formula1-Regular.ttf') format('truetype');
  
 }
+.nom{
+  text-align: left;
+  text-decoration: black;
+  padding: 10px;
+}
